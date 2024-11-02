@@ -19,18 +19,19 @@ h1, h2, h3 {
 }
 
 aside {
-	width: 10%;
+	width: 15%;
 	float: left;
 	/* This is my aside aligning */
 }
 
 footer {
-	width: 90%;
+	width: 95%;
+	clear: both;
 	/* This is my footer aligning */
 }
 
 header {
-	width: 90%;
+	width: 95%;
 	/* This is my header aligning */
 }
 
@@ -39,14 +40,15 @@ img {
 }
 
 main {
-	width: 76%;
+	box-sizing: content-box;
+	width: 75%;
 	float: left;
 	/* This is my main aligning */
 
 }
 
 nav {
-	width: 14%;
+	width: 10%;
 	float: left;
 	/* This is my nav aligning */
 }
@@ -56,5 +58,6 @@ nav {
 }
 
 #main-container {
-
+	box-sizing: border-box;
+	/* This is my container aligning */
 }

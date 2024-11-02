@@ -16,11 +16,13 @@ h1, h2, h3 {
 }
 
 aside {
-	
+	width: 10%;
+	float: left;
+	/* This is my aside aligning */
 }
 
 footer {
-
+	
 }
 
 header {

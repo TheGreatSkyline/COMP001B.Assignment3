@@ -19,7 +19,7 @@ h1, h2, h3 {
 }
 
 aside {
-	width: 10%;
+	width: 14%;
 	float: left;
 	/* This is my aside aligning */
 }
@@ -30,7 +30,8 @@ footer {
 }
 
 header {
-
+	width: 90%;
+	/* This is my header aligning */
 }
 
 img {

@@ -19,7 +19,7 @@ h1, h2, h3 {
 }
 
 aside {
-	width: 14%;
+	width: 10%;
 	float: left;
 	/* This is my aside aligning */
 }
@@ -39,14 +39,16 @@ img {
 }
 
 main {
-	width: 80%;
+	width: 76%;
 	float: left;
 	/* This is my main aligning */
 
 }
 
 nav {
-
+	width: 14%;
+	float: left;
+	/* This is my nav aligning */
 }
 
 #copyright {

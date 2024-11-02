@@ -25,7 +25,8 @@ aside {
 }
 
 footer {
-
+	width: 90%;
+	/* This is my footer aligning */
 }
 
 header {

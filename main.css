@@ -39,6 +39,9 @@ img {
 }
 
 main {
+	width: 80%;
+	float: left;
+	/* This is my main aligning */
 
 }
 
